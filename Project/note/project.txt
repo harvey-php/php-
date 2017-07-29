@@ -1,0 +1,35 @@
+﻿一.前端目录说明:
+   ad 首页大图片存放地址 
+   images 项目中文件图片所在位置
+   photoview 图片新闻保存地址.
+   styles 样式文件保存目录
+
+   articles.html 新闻内容页
+
+   china.html 国内新闻
+   ent.html 娱乐新闻 
+   history.html 历史
+   military.html 军事    
+   society.html 社会新闻
+   world.html   国际新闻
+ 
+   photo.html 图片新闻
+
+   index.html 首页
+   
+   login.html 登录页
+  
+   register.html 注册页
+  
+    
+
+
+
+
+
+
+
+
+ 
+
+     

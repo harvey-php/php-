@@ -1,0 +1,47 @@
+一.admin后端目录说明:
+   images 后台页面图片
+   js     后台js文件存放的目录
+   styles 后台页面的样式文件保存目录
+  
+   index.html 后台的首页
+   main.html  
+   menu.html 菜单页
+   top.html  后台的导航
+   main.html 后台打开时的空白页.
+
+   addnew.html 添加新闻的静态页面.
+
+
+二.添加新闻
+   1.在addnew.html文件中添加:
+      <form action="addnew.php" method="post">
+   2.在admin目录下创建addnew.php.
+   3.编辑 addnew.php.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
